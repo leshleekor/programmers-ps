@@ -14,4 +14,4 @@ def solution(prices):
     return answer
 
 
-solution([1, 2, 3, 2, 3])
+# solution([1, 2, 3, 2, 3])
